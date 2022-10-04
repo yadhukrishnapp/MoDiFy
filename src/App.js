@@ -23,7 +23,7 @@ function App(props) {
       setAlert(null);
     }, 1500);
   }
-
+  //comment
   const removeBodyClasses = () => {
     document.body.classList.remove('bg-light');
     document.body.classList.remove('bg-dark');
